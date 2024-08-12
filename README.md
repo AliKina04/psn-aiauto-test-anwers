@@ -3,7 +3,9 @@
 Introduction
 =============
 
-This is an example README file. Below is an example of how to include an image and a table.
+Artificial Intelligence used for to simplify and shorten work time if we have a lot of data that we cannot possibly read one by one. 
+in this case, how AI calculates how long the device was down referred to by csv data (in second). 
+In this process too, my CVS files will be converted into xlsx format to make work easier. 
 
 ## Table
 
