@@ -7,7 +7,8 @@ Artificial Intelligence used for to simplify and shorten work time if we have a 
 In this case, how AI calculates how long the device was down referred to by csv data (in second). 
 In this process too, my CVS files will be converted into xlsx format to make work easier. 
 
-## DATA TABLE
+Data Table
+===========
 
 This is some of the section data contained in the CVS file. There are 2 columns, namely Epoch Time and Value
 
