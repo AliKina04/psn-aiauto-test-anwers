@@ -20,7 +20,7 @@ This is some of the section data contained in the CVS file. There are 2 columns,
 | 1704042037000 | 1           |
 | 1704042059000 | 1           |
 
-NOTE :
+NOTE : <br>
 "1" used for the value that means device was down
 "0" used for the value that means device was up
 
