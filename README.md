@@ -7,9 +7,9 @@ Artificial Intelligence used for to simplify and shorten work time if we have a 
 in this case, how AI calculates how long the device was down referred to by csv data (in second). 
 In this process too, my CVS files will be converted into xlsx format to make work easier. 
 
-## Table
+## Data Table
 
-Here is an example table for device network data :
+This is some of the section data contained in the CVS file. There are 2 columns, namely Epoch Time and Value
 
 | Epoch Time    | Value       |
 |---------------|------------ |
@@ -19,5 +19,7 @@ Here is an example table for device network data :
 | 1704042037000 | 1           |
 | 1704042059000 | 1           |
 
-
+NOTE :
+"1" used for the value that means device was down
+"0" used for the value that means device was up
 
