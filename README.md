@@ -24,3 +24,7 @@ NOTE : <br>
 "1" used for the value that means device was down. <br>
 "0" used for the value that means device was up. <br>
 
+EXPLAIN CODE
+============
+
+
