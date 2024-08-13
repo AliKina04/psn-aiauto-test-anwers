@@ -24,7 +24,6 @@ NOTE : <br>
 "1" used for the value that means device was down. <br>
 "0" used for the value that means device was up. <br>
 
-EXPLAIN CODE
+Explain Code
 ============
-
-
+The code starts by initializing a DataFrame df with two columns: 'Epoch Time' and 'Value'. Then, the code iterates over each row of the DataFrame. During an iteration, if the downtime status (is_down) is False and the value in the 'Value' column is 1, then downtime starts, and the start time (start_down) is saved. If is_down is True and the value in the 'Value' column changes to 0 or the iteration reaches the end of the DataFrame, then the downtime ends. The end time (end_down) is saved and the downtime duration is calculated and added to the arrData list. After the iteration is complete, all downtime durations stored in arrData are added up and converted to seconds, then the results are printed.
