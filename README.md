@@ -48,3 +48,4 @@ Explain : <br>
 9. DataFrame (x == len(df) - 1). '0' indicates that downtime has ended.<br>
 10. Calculate the total downtime by adding up all the elements in arrData, adding pd.Timedelta(0) as the time initialization. The results are converted to seconds 
     with total_seconds().
+11. Devided with 1000 to change from mili second into second time.
